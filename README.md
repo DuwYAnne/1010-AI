@@ -1,4 +1,4 @@
-## 1010-AI
+# 1010-AI
 
 This project attempts to use deep learning to play the game [1010!](https://play.google.com/store/apps/details?id=com.gramgames.tenten&hl=en_US&gl=US), a game similar to tetris on a 10x10 board where you are given bags of 3 shapes at a time, and you have to fill the board as much as possible, and a filled column/row gets completely cleared.
 
@@ -8,5 +8,6 @@ Regardless of all this, the AI was still able to improve from an average score o
 
 ![Graph](https://i.imgur.com/K6Uzy4L.png)
 
-#References
+## References
+
 https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html
