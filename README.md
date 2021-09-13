@@ -10,4 +10,4 @@ Regardless of all this, the AI was still able to improve from an average score o
 
 ## References
 
-https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html
+Inspired by: https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html
