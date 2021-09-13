@@ -6,7 +6,7 @@ The AI was never very strong due to possibly a few issues. One is that the outpu
 
 Regardless of all this, the AI was still able to improve from an average score of **1** through random moves, to an average score of **7** after 5000 episodes. The maximum score it achieved was 14.
 
-![Graph](https://i.imgur.com/ETCZaNK.png)
+![Graph](https://cdn.discordapp.com/attachments/730956498540167269/887083838726094858/unknown.png)
 
 ## References
 
